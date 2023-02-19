@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarah.
-- 🌱 I’m currently learning React, Framer Motion, TypeScript
+- 🌱 I’m currently learning React and TypeScript
 
 
 <!---
