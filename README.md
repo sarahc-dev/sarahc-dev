@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarah.
 - 🌱 I’m currently learning React and TypeScript
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahc-dev&hide_progress=false)](https://github.com/sarahc-dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahc-dev&&layout=compact)](https://github.com/sarahc-dev/github-readme-stats)
 
 
 <!---
