@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sarah.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahc-dev&layout=donut&langs_count=8)]([https://github.com/sarahc-dev/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahc-dev&layout=donut&langs_count=8)]([https://github.com/sarahc-dev/github-readme-stats](https://github.com/sarahc-dev/github-readme-stats))
 
 
 <!---
