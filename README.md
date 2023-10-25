@@ -19,7 +19,7 @@
 I've been working with a small team on a redesign of their existing website using Next.js, TypeScript and TailwindCSS. It has been a great learning experience and we're looking forward to going live soon! Until then, you can see what I've been working on [here](https://chipper-faloodeh-f128c4.netlify.app/).
 
 #### Todolist project - In progress
-I wanted to make a simple CRUD app to focus on the details - TDD process front and backend, and learn to use TypeScript on the backend as well. I am about to begin rebuilding the backend in Java and in future I intend to recreate the front or backend in other languages as I'm learning, as a way of comparison and learning the basics. Check out where I'm at [here](https://github.com/sarahc-dev/todolist-collection).
+I wanted to make a simple CRUD app to focus on the details - TDD process front and backend, and learn to use TypeScript on the backend as well. I have also rebuit the backend whilst learning Java Spring Boot. In future I intend to recreate the front or backend in other languages as I'm learning, as a way of comparison and learning the basics. Check out where I'm at [here](https://github.com/sarahc-dev/todolist-collection).
 
 #### Codewars
 I also completed my first 3kyu kata in [Codewars](https://www.codewars.com/users/sarahc-dev/completed_solutions)! It took some thinking and I was so happy to see those green checks at the end!
