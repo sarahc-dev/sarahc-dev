@@ -3,10 +3,7 @@
 👩🏼‍💻 About me: A tenacious problem solver with a keen eye for detail.\
 🌱 Currently learning:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend - improving on TypeScript and TDD (Cypress)\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend - Java - completed 'Learn Java' introductory course on CodeAcademy\
-📖 Reading:\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~The Clean Coder, Robert C. Martin~~ ✅\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clean Code, Robert C. Martin\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend - Next.js, Java - completed 'Learn Java' introductory course on CodeAcademy\
 🌟 Fun fact: I have visited 25% of the countries in the world (50) and I can name all 197 of them. Test me!
 
 ### Check me out or see what I'm working on below:
