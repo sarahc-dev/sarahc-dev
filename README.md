@@ -12,11 +12,14 @@
 <a href="https://www.linkedin.com/in/sarah-clements-37579589/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" alt="Linkedin badge" /></a>
 <a href="https://www.codewars.com/users/sarahc-dev" target="_blank"><img src="https://img.shields.io/badge/-codewars-B1361E?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars badge" /></a>
 
-#### CashMoney Uk - In progress
-I've been working with a small team on a redesign of their existing website using Next.js, TypeScript and TailwindCSS. It has been a great learning experience and we're looking forward to going live soon! Until then, you can see what I've been working on [here](https://chipper-faloodeh-f128c4.netlify.app/).
+#### [Habit Tracker - In progress](https://github.com/sarahc-dev/habit-tracker)
+I am currently working on building a habit tracker using Next.js, TypeScript and Neon database. You can track your daily habits and see your progress. The project is deployed on Vercel [here](https://habit-tracker-sarahc.vercel.app/).
 
-#### Todolist project - In progress
-I wanted to make a simple CRUD app to focus on the details - TDD process front and backend, and learn to use TypeScript on the backend as well. I have also rebuit the backend whilst learning Java Spring Boot. In future I intend to recreate the front or backend in other languages as I'm learning, as a way of comparison and learning the basics. Check out where I'm at [here](https://github.com/sarahc-dev/todolist-collection).
+#### [Todolist project - Java](https://github.com/sarahc-dev/todolist-java-spring-boot)
+After completing the 'Learn Java' introductory course, I rebuilt the backend of my Todolist app using Java Spring Boot. This works with my [Todolist frontend](https://github.com/sarahc-dev/todolist-frontend-nextjs).
+
+#### CashMoney Uk
+I worked with a small company on a redesign of their existing website using Next.js, TypeScript and TailwindCSS. It was a great learning experience, however due to some unforeseen issues deploying a Next.js project on Netlify, it did not going into production. But the design we worked on was used and the website [preview](https://chipper-faloodeh-f128c4.netlify.app/) I created showcases my frontend capabilities.
 
 #### Codewars
 I also completed my first 3kyu kata in [Codewars](https://www.codewars.com/users/sarahc-dev/completed_solutions)! It took some thinking and I was so happy to see those green checks at the end!
